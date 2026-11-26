@@ -179,10 +179,10 @@ correct handoffs, average cost and latency. Save each run to
 
 ## 6. Repo conventions
 
-- Public repo on GitHub account **Amir1887**, name `passline`. Repo description: "AI front desk for restaurants: cited
+- Public repo on GitHub account **amir-adel-gad**, name `passline`. Repo description: "AI front desk for restaurants: cited
   answers, WhatsApp bookings, Stripe deposits, MCP tools. Portfolio demo with
   fictional data."
-- Commit identity: `Amir1887@users.noreply.github.com`.
+- Commit identity: `151045874+amir-adel-gad@users.noreply.github.com`.
 - Conventional commits (`feat:`, `fix:`, `docs:`, `chore:`, `test:`).
 - One branch + PR per feature, merged to `main` (squash).
 - No `console.log` in app code (use a small logger), no commented-out code,

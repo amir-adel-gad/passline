@@ -3,7 +3,7 @@ import Image from "next/image";
 import { CopyCommand } from "@/components/copy-command";
 import { toToolCards } from "@/lib/tool-cards";
 
-const GITHUB = "https://github.com/Amir1887/passline";
+const GITHUB = "https://github.com/amir-adel-gad/passline";
 const NPM = "https://www.npmjs.com/package/passline-mcp";
 const SERVER_README = `${GITHUB}/tree/main/packages/mcp-server#readme`;
 

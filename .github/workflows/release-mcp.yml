@@ -4,7 +4,7 @@ name: Release passline-mcp
 # Uses npm trusted publishing (OIDC): no npm token is stored anywhere, and each
 # release gets a provenance attestation linking it to this repo and commit.
 # One-time setup on npmjs.com: passline-mcp → Settings → Trusted publishing →
-# GitHub Actions, repository Amir1887/passline, workflow release-mcp.yml.
+# GitHub Actions, repository amir-adel-gad/passline, workflow release-mcp.yml.
 
 on:
   push:

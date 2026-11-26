@@ -44,7 +44,7 @@ No shadcn components yet: the page needs one button, and a component library for
 
 ## Deploy (Vercel)
 
-New Project → `Amir1887/passline` → **Root Directory `apps/web`** → Framework **Next.js** → Deploy. Vercel installs at the monorepo root (npm workspaces) and runs `npm run build` in `apps/web`. No environment variables are needed. Every PR then gets a preview URL.
+New Project → `amir-adel-gad/passline` → **Root Directory `apps/web`** → Framework **Next.js** → Deploy. Vercel installs at the monorepo root (npm workspaces) and runs `npm run build` in `apps/web`. No environment variables are needed. Every PR then gets a preview URL.
 
 ## Tests
 

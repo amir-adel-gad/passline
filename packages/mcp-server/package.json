@@ -12,13 +12,13 @@
     "tools",
     "typescript"
   ],
-  "homepage": "https://github.com/Amir1887/passline/tree/main/packages/mcp-server#readme",
+  "homepage": "https://github.com/amir-adel-gad/passline/tree/main/packages/mcp-server#readme",
   "bugs": {
-    "url": "https://github.com/Amir1887/passline/issues"
+    "url": "https://github.com/amir-adel-gad/passline/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Amir1887/passline.git",
+    "url": "git+https://github.com/amir-adel-gad/passline.git",
     "directory": "packages/mcp-server"
   },
   "license": "MIT",
