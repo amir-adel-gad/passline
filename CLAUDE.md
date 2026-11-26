@@ -67,7 +67,7 @@ Tailwind CSS v4 + shadcn/ui. Design tokens from `DESIGN.md` are defined as CSS v
 
 Use bullets only when listing parts (screens, tools). End with the Claude `Co-Authored-By` trailer only.
 
-**Never** put a work email, an employer name or any private project name in a commit. Commits are authored as `Amir Gad <Amir1887@users.noreply.github.com>`.
+**Never** put a work email, an employer name or any private project name in a commit. Commits are authored as `Amir Gad <151045874+amir-adel-gad@users.noreply.github.com>`.
 
 ## Rule: merging PRs
 
